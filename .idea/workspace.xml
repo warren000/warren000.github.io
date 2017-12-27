@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82555bb-1af7-45fc-b21b-e5bacd309ef1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn.html" afterPath="$PROJECT_DIR$/learn.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manshenghuo.html" afterPath="$PROJECT_DIR$/manshenghuo.html" />
     </list>
     <ignored path="warren000.iws" />
@@ -35,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="learn.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.7099768">
+              <caret line="50" column="78" selection-start-line="50" selection-start-column="78" selection-end-line="50" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manshenghuo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manshenghuo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manshenghuo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.912993">
-              <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            <state vertical-scroll-proportion="-12.8529415">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,10 +90,10 @@
       <list>
         <option value="$PROJECT_DIR$/mbfx.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/learn.html" />
         <option value="$PROJECT_DIR$/gbook.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/manshenghuo.html" />
+        <option value="$PROJECT_DIR$/learn.html" />
       </list>
     </option>
   </component>
@@ -605,12 +605,12 @@
       <workItem from="1505872902979" duration="4662000" />
       <workItem from="1505879167452" duration="1302000" />
       <workItem from="1507887494298" duration="20000" />
-      <workItem from="1514364415596" duration="454000" />
+      <workItem from="1514364415596" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6438000" />
+    <option name="totallyTimeSpent" value="6600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -818,14 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.088235">
@@ -844,8 +836,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manshenghuo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.912993">
-          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        <state vertical-scroll-proportion="-12.8529415">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7099768">
+          <caret line="50" column="78" selection-start-line="50" selection-start-column="78" selection-end-line="50" selection-end-column="78" />
           <folding />
         </state>
       </provider>
