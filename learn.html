@@ -48,7 +48,7 @@
                 <div class="cbp_tmlabel" data-scroll-reveal="enter right over 1s">
                     <h2>常用的Linux命令</h2>
                     <p>
-                        <span class="blogpic"><a href="/"><img src="images/t03.jpg"></a></span>
+                        <span class="blogpic"><a href="/"><img src="images/t02.jpg"></a></span>
                         查看目录中资源使用情况：</br>du -ah --max-depth=1</br>
                         清空文件：</br>echo "" > 文件名</br>
                         排查内存问题：</br>top -Hp 28146；printf "%x\n" 18477；jstack 18475 | grep  -1000 482d</br>
@@ -64,21 +64,15 @@
                 <div class="cbp_tmlabel" data-scroll-reveal="enter right over 1s">
                     <h2>Shiro学习</h2>
                     <p>
-                        <span class="blogpic"><a href="/"><img src="images/t03.jpg"></a></span>
-                        /admins/**=anon               # 表示该 uri 可以匿名访问
-                        /admins/**=auth               # 表示该 uri 需要认证才能访问
-                        /admins/**=authcBasic         # 表示该 uri 需要 httpBasic 认证
-                        /admins/**=perms[user:add:*]  # 表示该 uri 需要认证用户拥有 user:add:* 权限才能访问
-                        /admins/**=port[8081]         # 表示该 uri 需要使用 8081 端口
-                        /admins/**=rest[user]         # 相当于 /admins/**=perms[user:method]，其中，method 表示  get、post、delete 等
-                        /admins/**=roles[admin]       # 表示该 uri 需要认证用户拥有 admin 角色才能访问
-                        /admins/**=ssl                # 表示该 uri 需要使用 https 协议
-                        /admins/**=user               # 表示该 uri 需要认证或通过记住我认证才能访问
-                        /logout=logout                # 表示注销,可以当作固定配置
-                        <hr>
-                         <a>https://www.cnblogs.com/moonlightL/p/8126910.html</a>
+                        <span class="blogpic"><a href="/"><img src="images/t01.jpg"></a></span>
+                        /admins/**=anon               # 表示该 uri 可以匿名访问<br>
+                        /admins/**=auth               # 表示该 uri 需要认证才能访问<br>
+                        /admins/**=port[8081]         # 表示该 uri 需要使用 8081 端口<br>
+                        /admins/**=ssl                # 表示该 uri 需要使用 https 协议<br>
+                        /admins/**=user               # 表示该 uri 需要认证或通过记住我认证才能访问<br>
+                        /logout=logout                # 表示注销,可以当作固定配置<br>
+                         <a href="https://www.cnblogs.com/moonlightL/p/8126910.html">查看博文</a>
                     </p>
-                    <!--<a href="/" target="_blank" class="readmore">阅读全文&gt;&gt;</a>-->
                 </div>
             </li>
         </ul>
